@@ -15,7 +15,7 @@ void setup()
   size(800, 600, P2D);
   
   minim = new Minim(this);
-  song = minim.loadFile("Chet Baker - Almost blue.mp3", 1024);
+  song = minim.loadFile("music.mp3", 1024);
   fft = new FFT(song.bufferSize(), song.sampleRate());
   song.loop();
 
