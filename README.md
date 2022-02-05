@@ -4,4 +4,4 @@ A small Processing assignment featuring an image filter reacting to music. (Musi
 
 Credit to Sem Barkman for the concept and base code.
 
-GLSL code written by Gabor Barnoth. (For improved performance)
+GLSL code written by Gabor Barnoth (much improved performance)
